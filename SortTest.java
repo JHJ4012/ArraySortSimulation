@@ -26,7 +26,7 @@ public class SortTest extends JFrame{
 	public SortTest() {
 		
 		setSize(1000, 800);
-		setTitle("배열 정렬 시뮬레이션");
+		setTitle("배열 정렬 시뮬레이션!!");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
 		new RandomNum();
